@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning AI, Robotics Software (ROS), and Advanced Control Theory
 - 💞️ I’m looking to collaborate on innovative robotics projects, embedded systems, and AI-powered solutions
 - 📫 How to reach me :
-  <a href="https://www.linkedin.com/in/wojciech-jankowski-/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="margin-top: 8px;"/>
-  </a>
+<a href="mailto:wojciech.jakub.jankowski@gmail.com"> ✉️</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Modern Art 🎨 and Psychological Films 🍿
 

@@ -60,8 +60,8 @@
 <h3 align="left"><li>Statistics:</li></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mezyon&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats-one.vercel.app/api?username=mezyon&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezyon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img align="center" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mezyon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
